@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+include "footer.php";
 // Verbinding maken met de database
 $servername = "localhost";
 $username = "root";
